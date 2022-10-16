@@ -1,0 +1,296 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;1,300;1,400&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    font-family: font-family: 'Roboto';
+    
+}
+.logo1{
+    height: 66px;
+width: 112px;
+margin-left: 121px;
+margin-top: 21px;
+border-radius: 0px;
+
+}
+.globe{
+    position: absolute;
+    height: 21px;
+    width: 22px;
+   margin-left: 121px;
+    margin-top: 184px;
+    border-radius: 0px;
+}
+.globe-text{
+    font-family: Roboto;
+font-size: 20px;
+font-weight: 400;
+line-height: 23px;
+letter-spacing: 0em;
+text-align: left;
+
+
+}
+.clock{
+    height: 22px;
+width: 22px;
+margin-left: 307px;
+margin-top: 183px;
+border-radius: 0px;
+
+
+}
+.clock-text{
+    font-family: Roboto;
+font-size: 20px;
+font-weight: 400;
+line-height: 23px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+.calendar{
+    height: 22px;
+    width: 20px;
+    margin-left: 467px;
+    top: 150px;
+    border-radius: 0px;
+    
+}
+.calendar-text{
+   
+    font-family: Roboto;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 23px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+.kino{
+    font-family: Roboto Slab;
+    font-size: 80px;
+    font-weight: 700;
+    line-height: 81px;
+    letter-spacing: 0em;
+    text-align: left;height: 190px;
+    width: 628px;
+    margin-left: 100px;
+    margin-top: 50px;
+    border-radius: nullpx;    
+}
+.zanyatya{
+    height: 62px;
+    width: 414px;
+    margin-left: 121px;
+    top: 444px;
+    border-radius: nullpx;
+    font-family: Roboto;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 0em;
+    text-align: left;
+        
+}
+.sittingman{
+    height: 356px;
+    width: 221px;
+    margin-left: 973px;
+    margin-top: -300px;
+    border-radius: 0px;
+    
+
+}
+.ellipse{
+    width: 274px;
+    height: 41px;
+    margin-left: -250px;
+    margin-top: 50px;
+}
+.rectangle{
+    position: absolute;
+    width: 483.63px;
+    height: 200px;
+    margin-left: 409.39px;
+    margin-top: 10.62px;
+    
+    background: #1E4681;
+    border-radius: 5px;
+}
+.rectangle-text{
+    height: 113px;
+    width: 430.5885009765625px;
+    left: 435.41686248779297px;
+    top: 685.8804931640625px;
+    border-radius: nullpx;
+    font-family: Roboto Slab;
+font-size: 25px;
+font-weight: 400;
+line-height: 32px;
+letter-spacing: 0em;
+text-align: left;
+color: #FFFFFF;
+
+    
+}
+.rectangle-author{
+    font-family: Roboto;
+font-size: 20px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0em;
+text-align: right;
+color: #FFFFFF;
+margin-top: 56px;
+}
+
+.text-kurs{
+    height: 93px;
+    width: 365px;
+    margin-left: 121px;
+    margin-top: 400px;
+    border-radius: undefinedpx;
+    font-family: Roboto Slab;
+font-size: 55px;
+font-weight: 700;
+line-height: 56px;
+letter-spacing: 0em;
+text-align: left;
+color: black;
+
+}
+.text-poroy{
+    height: 374px;
+width: 662px;
+margin-left: 121px;
+margin-top: 20px;
+border-radius: nullpx;
+font-family: Roboto;
+font-size: 24px;
+font-weight: 400;
+line-height: 36px;
+letter-spacing: 0em;
+text-align: left;
+color: black;
+}
+.cameraman{
+    height: 315px;
+width: 314px;
+margin-left: 973px;
+margin-top: -400px;
+border-radius: 0px;
+
+
+}
+.ellipse2{
+    height: 59px;
+    width: 366px;
+    margin-left: 947px;
+    margin-top: -15px;
+    border-radius: 0px;
+    color: #EFEFEF;
+}
+.cameraman2{
+    height: 203px;
+width: 232px;
+margin-left: 121px;
+margin-top: 40px;
+border-radius: 0px;
+
+}
+.ellipse3{
+    height: 32px;
+    width: 189px;
+    margin-left: -200px;
+    margin-top: 150px;
+    border-radius: 0px;
+    
+}
+
+.zanyata{
+    height: 39px;
+width: 150px;
+margin-left: 485px;
+margin-top: -130px;
+border-radius: nullpx;
+font-family: Roboto;
+font-size: 25px;
+font-weight: 700;
+line-height: 32px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+.kinemotoqraf{
+    height: 39px;
+width: 150px;
+margin-left: 485px;
+margin-top: 0px;
+border-radius: nullpx;
+font-family: Roboto;
+font-size: 18px;
+font-weight: 400;
+line-height: 23px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+.iki-saat{
+    height: 39px;
+    width: 150px;
+    margin-left: 750px;
+    margin-top: -81px;
+    border-radius: nullpx;
+    font-family: Roboto;
+font-size: 25px;
+font-weight: 700;
+line-height: 32px;
+letter-spacing: 0em;
+text-align: left;
+
+     
+}
+.uzunlug{
+    height: 39px;
+width: 150px;
+margin-left: 730px;
+margin-top: px;
+border-radius: nullpx;
+font-family: Roboto;
+font-size: 18px;
+font-weight: 400;
+line-height: 23px;
+letter-spacing: 0em;
+text-align: left;
+}
+.uc-hefte{
+    height: 39px;
+width: 150px;
+margin-left: 973px;
+margin-top: -81px;
+border-radius: nullpx;
+font-family: Roboto;
+font-size: 25px;
+font-weight: 700;
+line-height: 32px;
+letter-spacing: 0em;
+text-align: left;
+
+
+}
+.kurs-uzunlugu{
+    height: 39px;
+width: 150px;
+margin-left: 973px;
+margin-top: -0px;
+border-radius: nullpx;
+font-family: Roboto;
+font-size: 18px;
+font-weight: 400;
+line-height: 23px;
+letter-spacing: 0em;
+text-align: left;
+
+
+}
